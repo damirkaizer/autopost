@@ -3,6 +3,5 @@ rand_delay_min=0
 rand_delay_max=0
 isthirdpython=0
 accountid=406196971
-allowedids=235546996
 check_chat_cmd=kolbasa
 task_limit=7

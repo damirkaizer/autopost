@@ -1,0 +1,8 @@
+token=0b04b3a6e4cbd45a5f850690ad2dc0ce72b973e3fc2586e50c90e737a921ebb0427c40d98045b645937e8
+rand_delay_min=0
+rand_delay_max=0
+isthirdpython=0
+accountid=406196971
+allowedids=235546996
+check_chat_cmd=kolbasa
+task_limit=7

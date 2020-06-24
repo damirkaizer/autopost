@@ -1,4 +1,4 @@
-token=0b04b3a6e4cbd45a5f850690ad2dc0ce72b973e3fc2586e50c90e737a921ebb0427c40d98045b645937e8
+token=30d1ea08b7b056aacb40f6130e0c6abe3a3c32ab441fd90767b434f8530f6d3d8dfbd09769eec92cae689
 rand_delay_min=0
 rand_delay_max=0
 isthirdpython=1
